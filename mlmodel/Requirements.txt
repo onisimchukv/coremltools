@@ -4,7 +4,7 @@ docutils==0.13.1
 imagesize==0.7.1
 inflection==0.3.1
 MarkupSafe==1.0
-Pygments==2.2.0
+Pygments==2.20.0
 pytz==2017.2
 six==1.10.0
 snowballstemmer==1.2.1
